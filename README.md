@@ -6,7 +6,7 @@ Listen to a live Zoom or Google Meet class in Sinhala, English or Tamil, through
 
 
 <p align="center">
-  ▶️ <b><a href="https://drive.google.com/file/d/1fbkurbvAe5rnWRQUW7FFhKigJ8ddWPnn/view?usp=sharing">Click here to watch the VoxBridge AI Live Audio Translator Video Demo</a></b>
+  ▶️ <b><a href="https://drive.google.com/file/d/1R1S23eHrmeJYMZtOgUY2QXUoYtOxr8NI/view?usp=sharing">Click here to watch the VoxBridge AI Live Audio Translator Video Demo</a></b>
 </p>
 
 ## Run it on localhost
