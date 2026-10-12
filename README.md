@@ -2,8 +2,7 @@
 
 Listen to a live Zoom or Google Meet class in Sinhala, English or Tamil, through your headset, while the teacher is still talking.
 
-<img width="1024" height="572" alt="23e77e22-1e60-4fd5-b144-74c6c3f522cd" src="https://github.com/user-attachments/assets/5f885d47-0c35-427f-8078-183ee6dd7d55" />
-
+<img width="1024" height="765" alt="cff138e3-90e9-4074-969d-e807bb7e66e4" src="https://github.com/user-attachments/assets/79d50779-c9af-4b5f-bbfc-4f7ff0371261" />
 
 ## Run it on localhost
 
