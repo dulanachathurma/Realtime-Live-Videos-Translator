@@ -306,9 +306,10 @@ export default function App() {
       setError({ key: 'serverOffline' });
       return;
     }
+    const testSentence = UI[targetLang]?.testSentence || UI.en.testSentence;
     socket.emit('tts-request', {
       seq: 0,
-      text: t.testSentence,
+      text: testSentence,
       lang: targetLang,
       tts: { gender: settings.gender, pitch: settings.pitch },
     });
